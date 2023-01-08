@@ -25,7 +25,7 @@
     transform: translate(-50%, -50%);
     height: 330px;
     width: 600px;
-    background-color: bisque;
+    background-color: rgb(154, 231, 227);
     border: 1px solid rgba(0, 0, 0, 0.2);
     border-radius: 5px;
     overflow: hidden;
@@ -33,6 +33,6 @@
   }
   
   .number {
-    color:blue;
+    color:rgb(245, 218, 130);
     font-style: italic;
   }
